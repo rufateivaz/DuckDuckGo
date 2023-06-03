@@ -1,0 +1,4 @@
+<resources>
+    <string name="search_characters_hint">Search characters …</string>
+    <string name="character_image_content">Character image</string>
+</resources>
