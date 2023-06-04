@@ -18,7 +18,7 @@ On Phones, the list and detail are separate screens, but on Tablets, list and de
 ## Approach
 * Implemented in 100% Kotlin and Unit-tested.
 * MVVM clean architecture.
-* Multi-module: app, data and domain (viewmodel connects to repository through use-cases but can also connect directly without additional layer).
+* Multi-module: app, data and domain (viewmodel connects to repository through use-cases but can also connect directly).
 * Dependency injection: Koin
 * SlidingPaneLayout (inspired from [here](https://learn.microsoft.com/en-us/dual-screen/android/jetpack/window-manager/slidingpanelayout)).
 * Api calls: RxJava3 (can be replaced with Kotlin coroutines).
