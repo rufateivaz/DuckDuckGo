@@ -6,7 +6,7 @@ On Phones, the list and detail are separate screens, but on Tablets, list and de
 * For the list view, data is displayed as a text only, vertically scrollable list of character names.
 * The app offers search functionality that filters the character list according to characters whose titles or descriptions contain the query text.
 * Clicking on an item loads the detail view of that character, including the character’s image, title, and description. 
-* For the image in the detail view, the app uses the URL in the "Icon" field of the API JSON response; for items with blank or missing image URLs, a placeholder image is used.
+* For the image in the detail view, the app uses the URL in the "Icon" field of the API JSON response.
 * Using productFlavors, two variants of the app is created, using a single shared codebase. Each variant has a different name, package-name, and url that it pulls data from.
 
 ## Simpsons
