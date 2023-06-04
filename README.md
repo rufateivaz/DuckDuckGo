@@ -24,4 +24,4 @@ On Phones, the list and detail are separate screens, but on Tablets, list and de
 * Api calls: RxJava3 (can be replaced with Kotlin coroutines).
 * Network configuration: Retrofit, OkHttp, Gson, GsonConverter.
 * Database operation: Room (this can be improved by adding database migration features).
-* UI: Glide, RecyclerView, CardView, Adapter, Activity, Fragment, FragmenContainer, LiveData.
+* UI: Glide, RecyclerView, CardView, Adapter, Activity, Fragment, FragmenContainer, LiveData, ViewBinding.
